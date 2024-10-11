@@ -11,6 +11,7 @@ Link to the analysis:
 - `data/`: Includes zip files with raw and preprocessed datasets
 - `code_completion_metrics - metrics.zip`: csv file containing the results of the analysis
 - `code_completion_analysis.ipynb`: analysis
+- `requirements.txt`: packages needed to run the script
 
 ## Structure of the dataset:
 
